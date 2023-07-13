@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Home Page</title>
+  <link rel="stylesheet" href="css/all.css">
+  <link rel="stylesheet" href="css/bootstrap.min.css">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+  <header>
+    <div style="height: 80px;" class="d-flex bg-dark  align-items-center justify-content-between">
+      <div>
+        <a href="index.html" class="col-2 d-flex align-items-center">
+          <img src="image/WhatsApp_Image_2023-03-14_at_14.53.04-removebg-preview.png" width="60" alt="">
+          <h2 class=" text-danger"> Quiz </h2>
+        </a>
+      </div>
+      <ul class="d-flex mx-5 align-items-center ul-login gap-3 mb-0 ">
+        <li><a class="btn btn-outline-danger " href="login.html">Login</a></li>
+        <li><a class="btn btn-outline-danger " href="sign-up.html">SIGN_UP</a></li>
+      </ul>
+    </div>
+  </header>
+  <main>
+    <div class="position-relative main">
+      <div class="quiz-input w-75 rounded border border-danger bg-dark  text-light p-3">
+        <h2 class="text-center">Choose the questions</h2>
+        <h4 class="m-1 mt-3">Select Category :</h4>
+        <div class="form-outline position-relative">
+          <select name="Location" id="Location-select1" class="input w-100  p-2 mt-3" onfocus="this.size = 6"
+            onblur="this.size = 0" onchange="this.size = 1; this.blur()" >
+            <option  value="select">Select Category</option>
+            <option  value="General Knowledge">General Knowledge</option>
+            <option value="Science Nature">Science &amp; Nature</option>
+            <option value="Science: Computers">Science: Computers</option>
+            <option value="Sports">Sports</option>
+            <option value="Geography">Geography</option>
+            <option value="History">History</option>
+            <option value="Celebrities">Celebrities</option>
+            <option value="Animals">Animals</option>
+            <option value="Vehicles">Vehicles</option>
+            <option value="Entertainment: Comics">Entertainment: Comics</option>
+            <option value="Science: Gadgets">Science: Gadgets</option>
+          </select>
+        </div>
+        <div class="d-flex">
+          <h4 class="m-1 my-3 col-8">Select Difficulty :</h4>
+          <h4 class="my-3 mx-3 ">Number :</h4>
+        </div>
+        <div class="form-outline d-flex gap-4  position-relative">
+          <select name="Location" id="Location-select2" class="input input2 col-8   p-2 " onfocus="this.size = 4"
+            onblur="this.size = 0" onchange="this.size = 1; this.blur()">
+            <option value="select">Select Difficulty</option>
+            <option value="easy">Easy</option>
+            <option value="medium">Medium</option>
+            <option value="hard">Hard</option>
+          </select>
+          <div class="col-3">
+            <input type="number" class=" p-2 w-100 inpnum " min="1" value="5" name="" id="input-number">
+          </div>
+        </div>
+        <div class="text-center mt-3 ">
+          <button class="btn btn-outline-danger " id="Start">Start Quiz</button>
+        </div>
+      </div>
+    </div>
+  </main>
+  <script src="js/username.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

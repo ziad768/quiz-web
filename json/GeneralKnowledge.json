@@ -1,0 +1,1817 @@
+[
+    {
+        "response_code": 50,
+        "results": [
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Where is the train station &quot;Llanfair&shy;pwllgwyngyll&shy;gogery&shy;chwyrn&shy;drobwll&shy;llan&shy;tysilio&shy;gogo&shy;goch&quot;?",
+                "correct_answer": "Wales",
+                "incorrect_answers": [
+                    "Moldova",
+                    "Czech Republic",
+                    "Denmark"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which company did Valve cooperate with in the creation of the Vive?",
+                "correct_answer": "HTC",
+                "incorrect_answers": [
+                    "Oculus",
+                    "Google",
+                    "Razer"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
+                "correct_answer": "Key",
+                "incorrect_answers": [
+                    "Sword",
+                    "Pen",
+                    "Cellphone"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What does a funambulist walk on?",
+                "correct_answer": "A Tight Rope",
+                "incorrect_answers": [
+                    "Broken Glass",
+                    "Balls",
+                    "The Moon"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the largest organ of the human body?",
+                "correct_answer": "Skin",
+                "incorrect_answers": [
+                    "Heart",
+                    "large Intestine",
+                    "Liver"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which sign of the zodiac is represented by the Crab?",
+                "correct_answer": "Cancer",
+                "incorrect_answers": [
+                    "Libra",
+                    "Virgo",
+                    "Sagittarius"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "On a dartboard, what number is directly opposite No. 1?",
+                "correct_answer": "19",
+                "incorrect_answers": [
+                    "20",
+                    "12",
+                    "15"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What does the &#039;S&#039; stand for in the abbreviation SIM, as in SIM card? ",
+                "correct_answer": "Subscriber",
+                "incorrect_answers": [
+                    "Single",
+                    "Secure",
+                    "Solid"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What word represents the letter &#039;T&#039; in the NATO phonetic alphabet?",
+                "correct_answer": "Tango",
+                "incorrect_answers": [
+                    "Target",
+                    "Taxi",
+                    "Turkey"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which American president appears on a one dollar bill?",
+                "correct_answer": "George Washington",
+                "incorrect_answers": [
+                    "Thomas Jefferson",
+                    "Abraham Lincoln",
+                    "Benjamin Franklin"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What geometric shape is generally used for stop signs?",
+                "correct_answer": "Octagon",
+                "incorrect_answers": [
+                    "Hexagon",
+                    "Circle",
+                    "Triangle"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is &quot;dabbing&quot;?",
+                "correct_answer": "A dance",
+                "incorrect_answers": [
+                    "A medical procedure",
+                    "A sport",
+                    "A language"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the shape of the toy invented by Hungarian professor Ern\u0151 Rubik?",
+                "correct_answer": "Cube",
+                "incorrect_answers": [
+                    "Sphere",
+                    "Cylinder",
+                    "Pyramid"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the name of the Jewish New Year?",
+                "correct_answer": "Rosh Hashanah",
+                "incorrect_answers": [
+                    "Elul",
+                    "New Year",
+                    "Succoss"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the nickname of the US state of California?",
+                "correct_answer": "Golden State",
+                "incorrect_answers": [
+                    "Sunshine State",
+                    "Bay State",
+                    "Treasure State"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
+                "correct_answer": "Spruce Goose",
+                "incorrect_answers": [
+                    "Noah&#039;s Ark",
+                    "Fat Man",
+                    "Trojan Horse"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the Spanish word for &quot;donkey&quot;?",
+                "correct_answer": "Burro",
+                "incorrect_answers": [
+                    "Caballo",
+                    "Toro",
+                    "Perro"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Who is depicted on the US hundred dollar bill?",
+                "correct_answer": "Benjamin Franklin",
+                "incorrect_answers": [
+                    "George Washington",
+                    "Abraham Lincoln",
+                    "Thomas Jefferson"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which one of these is not a typical European sword design?",
+                "correct_answer": "Scimitar",
+                "incorrect_answers": [
+                    "Falchion",
+                    "Ulfberht",
+                    "Flamberge"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which American-owned brewery led the country in sales by volume in 2015?",
+                "correct_answer": "D. G. Yuengling and Son, Inc",
+                "incorrect_answers": [
+                    "Anheuser Busch",
+                    "Boston Beer Company",
+                    "Miller Coors"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "According to Sherlock Holmes, &quot;If you eliminate the impossible, whatever remains, however improbable, must be the...&quot;",
+                "correct_answer": "Truth",
+                "incorrect_answers": [
+                    "Answer",
+                    "Cause",
+                    "Source"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the name of Poland in Polish?",
+                "correct_answer": "Polska",
+                "incorrect_answers": [
+                    "Pupcia",
+                    "Polszka",
+                    "P&oacute;land"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "The New York Times slogan is, &ldquo;All the News That&rsquo;s Fit to&hellip;&rdquo;",
+                "correct_answer": "Print",
+                "incorrect_answers": [
+                    "Digest",
+                    "Look",
+                    "Read"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What do the letters of the fast food chain KFC stand for?",
+                "correct_answer": "Kentucky Fried Chicken",
+                "incorrect_answers": [
+                    "Kentucky Fresh Cheese",
+                    "Kibbled Freaky Cow",
+                    "Kiwi Food Cut"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What machine element is located in the center of fidget spinners?",
+                "correct_answer": "Bearings",
+                "incorrect_answers": [
+                    "Axles",
+                    "Gears",
+                    "Belts"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which country, not including Japan, has the most people of japanese decent?",
+                "correct_answer": "Brazil",
+                "incorrect_answers": [
+                    "China",
+                    "South Korea",
+                    "United States of America"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which candy is NOT made by Mars?",
+                "correct_answer": "Almond Joy",
+                "incorrect_answers": [
+                    "M&amp;M&#039;s",
+                    "Twix",
+                    "Snickers"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which of the following is the IATA code for Manchester Airport?",
+                "correct_answer": "MAN",
+                "incorrect_answers": [
+                    "EGLL",
+                    "LHR",
+                    "EGCC"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What zodiac sign is represented by a pair of scales?",
+                "correct_answer": "Libra",
+                "incorrect_answers": [
+                    "Aries",
+                    "Capricorn",
+                    "Sagittarius"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What nuts are used in the production of marzipan?",
+                "correct_answer": "Almonds",
+                "incorrect_answers": [
+                    "Peanuts",
+                    "Walnuts",
+                    "Pistachios"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "The likeness of which president is featured on the rare $2 bill of USA currency?",
+                "correct_answer": "Thomas Jefferson",
+                "incorrect_answers": [
+                    "Martin Van Buren",
+                    "Ulysses Grant",
+                    "John Quincy Adams"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is Cynophobia the fear of?",
+                "correct_answer": "Dogs",
+                "incorrect_answers": [
+                    "Birds",
+                    "Flying",
+                    "Germs"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Terry Gilliam was an animator that worked with which British comedy group?",
+                "correct_answer": "Monty Python",
+                "incorrect_answers": [
+                    "The Goodies&lrm;",
+                    "The League of Gentlemen&lrm;",
+                    "The Penny Dreadfuls"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "If you are caught &quot;Goldbricking&quot;, what are you doing wrong?",
+                "correct_answer": "Slacking",
+                "incorrect_answers": [
+                    "Smoking",
+                    "Stealing",
+                    "Cheating"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "When one is &quot;envious&quot;, they are said to be what color?",
+                "correct_answer": "Green",
+                "incorrect_answers": [
+                    "Red",
+                    "Blue",
+                    "Yellow"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the closest planet to our solar system&#039;s sun?",
+                "correct_answer": "Mercury",
+                "incorrect_answers": [
+                    "Mars",
+                    "Jupiter",
+                    "Earth"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What are Panama hats made out of?",
+                "correct_answer": "Straw",
+                "incorrect_answers": [
+                    "Silk",
+                    "Hemp",
+                    "Flax"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "The Canadian $1 coin is colloquially known as a what?",
+                "correct_answer": "Loonie",
+                "incorrect_answers": [
+                    "Boolie",
+                    "Foolie",
+                    "Moodie"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which of the following is not the host of a program on NPR?",
+                "correct_answer": "Ben Shapiro",
+                "incorrect_answers": [
+                    "Terry Gross",
+                    "Ira Glass",
+                    "Peter Sagal"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Who is the youngest person to recieve a Nobel Prize?",
+                "correct_answer": "Malala Yousafzai",
+                "incorrect_answers": [
+                    "Lawrence Bragg",
+                    "Werner Heisenberg",
+                    "Yasser Arafat"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "The drug cartel run by Pablo Escobar originated in which South American city?",
+                "correct_answer": "Medell&iacute;n",
+                "incorrect_answers": [
+                    "Bogot&aacute;",
+                    "Quito",
+                    "Cali"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which of the following blood component forms a plug at the site of injuries?",
+                "correct_answer": "Platelets",
+                "incorrect_answers": [
+                    "Red blood cells",
+                    "White blood cells",
+                    "Blood plasma"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the famous Papa John&#039;s last name?",
+                "correct_answer": "Schnatter",
+                "incorrect_answers": [
+                    "Chowder",
+                    "Williams",
+                    "ANDERSON"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which country has the union jack in its flag?",
+                "correct_answer": "New Zealand",
+                "incorrect_answers": [
+                    "South Africa",
+                    "Canada",
+                    "Hong Kong"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "When was the Playstation 3 released?",
+                "correct_answer": "November 11, 2006",
+                "incorrect_answers": [
+                    "January 8, 2007",
+                    "December 25, 2007",
+                    "July 16, 2006"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Who invented the first ever chocolate bar, in 1847?",
+                "correct_answer": "Joseph Fry",
+                "incorrect_answers": [
+                    "Andrew Johnson",
+                    "John Cadbury",
+                    "John Tyler"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "In aerodynamics, which force pushes an object upwards?",
+                "correct_answer": "Lift",
+                "incorrect_answers": [
+                    "Drag",
+                    "Weight",
+                    "Thrust"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "The &ldquo;fairy&rdquo; type made it&rsquo;s debut in which generation of the Pokemon core series games?",
+                "correct_answer": "6th",
+                "incorrect_answers": [
+                    "2nd",
+                    "7th",
+                    "4th"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "What is the official language of Brazil?",
+                "correct_answer": "Portugese",
+                "incorrect_answers": [
+                    "Brazilian",
+                    "Spanish",
+                    "English"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "easy",
+                "question": "Which of these Marvel games was released on the Playstation 2?",
+                "correct_answer": "Spider-Man 2",
+                "incorrect_answers": [
+                    "Silver Surfer",
+                    "Howard the Duck",
+                    "Wolverine: Adamantium Rage"
+                ]
+            }
+        ]
+    },
+    {
+        "response_code": 50,
+        "results": [
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "At which bridge does the annual Oxford and Cambridge boat race start?",
+                "correct_answer": "Putney",
+                "incorrect_answers": [
+                    "Hammersmith",
+                    "Vauxhall ",
+                    "Battersea"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which German sportswear company&#039;s logo is the &#039;Formstripe&#039;?",
+                "correct_answer": "Puma",
+                "incorrect_answers": [
+                    "Nike",
+                    "Adidas",
+                    "Reebok"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What cricketing term denotes a batsman being dismissed with a score of zero?",
+                "correct_answer": "Duck",
+                "incorrect_answers": [
+                    "Bye",
+                    "Beamer",
+                    "Carry"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which of these teams isn&#039;t a member of the NHL&#039;s &quot;Original Six&quot; era?",
+                "correct_answer": "Philadelphia Flyers",
+                "incorrect_answers": [
+                    "New York Rangers",
+                    "Toronto Maple Leafs",
+                    "Boston Bruins"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Who was the British professional wrestler Shirley Crabtree better known as?",
+                "correct_answer": "Big Daddy",
+                "incorrect_answers": [
+                    "Giant Haystacks",
+                    "Kendo Nagasaki",
+                    "Masambula"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What is the nickname of Northampton town&#039;s rugby union club?",
+                "correct_answer": "Saints",
+                "incorrect_answers": [
+                    "Harlequins",
+                    "Saracens",
+                    "Wasps"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "A stimpmeter measures the speed of a ball over what surface?",
+                "correct_answer": "Golf Putting Green",
+                "incorrect_answers": [
+                    " Football Pitch",
+                    "Cricket Outfield",
+                    "Pinball Table"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which Formula One driver was nicknamed &#039;The Professor&#039;?",
+                "correct_answer": "Alain Prost",
+                "incorrect_answers": [
+                    "Ayrton Senna",
+                    "Niki Lauda",
+                    "Emerson Fittipaldi"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "How many scoring zones are there on a conventional dart board?",
+                "correct_answer": "82",
+                "incorrect_answers": [
+                    "62",
+                    "42",
+                    "102"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "In a game of snooker, what colour ball is worth 3 points?",
+                "correct_answer": "Green",
+                "incorrect_answers": [
+                    "Yellow",
+                    "Brown",
+                    "Blue"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which nation hosted the FIFA World Cup in 2006?",
+                "correct_answer": "Germany",
+                "incorrect_answers": [
+                    "United Kingdom",
+                    "Brazil",
+                    "South Africa"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "The F1 season of 1994 is remembered for what tragic event?",
+                "correct_answer": "Death of Ayrton Senna (San Marino)",
+                "incorrect_answers": [
+                    "The Showdown (Australia)",
+                    "Verstappen on Fire (Germany)",
+                    "Schumacher&#039;s Ban (Britain)"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What is the highest belt you can get in Taekwondo?",
+                "correct_answer": "Black",
+                "incorrect_answers": [
+                    "White",
+                    "Red",
+                    "Green"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which country is hosting the 2022 FIFA World Cup?",
+                "correct_answer": "Qatar",
+                "incorrect_answers": [
+                    "Uganda",
+                    "Vietnam",
+                    "Bolivia"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which team was the 2015-2016 NBA Champions?",
+                "correct_answer": "Cleveland Cavaliers",
+                "incorrect_answers": [
+                    "Golden State Warriors",
+                    "Toronto Raptors",
+                    "Oklahoma City Thunders"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which team was the 2014-2015 NBA Champions?",
+                "correct_answer": "Golden State Warriors",
+                "incorrect_answers": [
+                    "Cleveland Cavaliers",
+                    "Houston Rockets",
+                    "Atlanta Hawks"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Josh Mansour is part of what NRL team?",
+                "correct_answer": "Penrith Panthers",
+                "incorrect_answers": [
+                    "Melbourne Storm",
+                    "Sydney Roosters",
+                    "North Queensland Cowboys"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which car manufacturer won the 2016 24 Hours of Le Mans?",
+                "correct_answer": "Porsche",
+                "incorrect_answers": [
+                    "Toyota",
+                    "Audi",
+                    "Ferrari"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which soccer team won the Copa Am&eacute;rica 2015 Championship ?",
+                "correct_answer": "Chile",
+                "incorrect_answers": [
+                    "Argentina",
+                    "Brazil",
+                    "Paraguay"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which soccer team won the Copa Am&eacute;rica Centenario 2016?",
+                "correct_answer": "Chile",
+                "incorrect_answers": [
+                    "Argentina",
+                    "Brazil",
+                    "Colombia"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What national team won the 2016 edition of UEFA European Championship?",
+                "correct_answer": "Portugal",
+                "incorrect_answers": [
+                    "France",
+                    "Germany",
+                    "England"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "In 2016, who won the Formula 1 World Constructor&#039;s Championship for the third time in a row?",
+                "correct_answer": "Mercedes-AMG Petronas",
+                "incorrect_answers": [
+                    "Scuderia Ferrari",
+                    "McLaren Honda",
+                    "Red Bull Racing Renault"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What is the oldest team in the NFL?",
+                "correct_answer": "Arizona Cardinals",
+                "incorrect_answers": [
+                    "Chicago Bears",
+                    "Green Bay Packers",
+                    "New York Giants"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What is the oldest team in Major League Baseball?",
+                "correct_answer": "Atlanta Braves",
+                "incorrect_answers": [
+                    "Chicago Cubs",
+                    "Cincinnati Reds",
+                    "St. Louis Cardinals"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "In Formula 1, the Virtual Safety Car was introduced following the fatal crash of which driver?",
+                "correct_answer": "Jules Bianchi",
+                "incorrect_answers": [
+                    "Ayrton Senna",
+                    "Ronald Ratzenberger",
+                    "Gilles Villeneuve"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What is the exact length of one non-curved part in Lane 1 of an Olympic Track?",
+                "correct_answer": "84.39m",
+                "incorrect_answers": [
+                    "100m",
+                    "100yd",
+                    "109.36yd"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which portuguese island is soccer player Cristiano Ronaldo from?",
+                "correct_answer": "Madeira",
+                "incorrect_answers": [
+                    "Terceira",
+                    "Santa Maria",
+                    "Porto Santo"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Who won the &quot;Champions League&quot; in 1999?",
+                "correct_answer": "Manchester United",
+                "incorrect_answers": [
+                    "Barcelona",
+                    "Bayern Munich",
+                    "Liverpool"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Who won the 2015 College Football Playoff (CFP) National Championship? ",
+                "correct_answer": "Ohio State Buckeyes",
+                "incorrect_answers": [
+                    "Alabama Crimson Tide",
+                    "Clemson Tigers",
+                    "Wisconsin Badgers"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What year was hockey legend Wayne Gretzky born?",
+                "correct_answer": "1961",
+                "incorrect_answers": [
+                    "1965",
+                    "1959",
+                    "1963"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which of the following pitchers was named National League Rookie of the Year for the 2013 season?",
+                "correct_answer": "Jose Fernandez",
+                "incorrect_answers": [
+                    "Jacob deGrom",
+                    "Shelby Miller",
+                    "Matt Harvey"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Why was The Green Monster at Fenway Park was originally built?",
+                "correct_answer": "To prevent viewing games from outside the park.",
+                "incorrect_answers": [
+                    "To make getting home runs harder.",
+                    "To display advertisements.",
+                    "To provide extra seating."
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which car manufacturer won the 2017 24 Hours of Le Mans?",
+                "correct_answer": "Porsche",
+                "incorrect_answers": [
+                    "Toyota",
+                    "Audi",
+                    "Chevrolet"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which NBA player won Most Valuable Player for the 1999-2000 season?",
+                "correct_answer": "Shaquille O&#039;Neal",
+                "incorrect_answers": [
+                    "Allen Iverson",
+                    "Kobe Bryant",
+                    "Paul Pierce"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "In what sport does Fanny Chmelar compete for Germany?",
+                "correct_answer": "Skiing",
+                "incorrect_answers": [
+                    "Swimming",
+                    "Showjumping",
+                    "Gymnastics"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "How many French Open&#039;s did Bj&ouml;rn Borg win?",
+                "correct_answer": "6",
+                "incorrect_answers": [
+                    "4",
+                    "9",
+                    "2"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "How many premier league trophies did Sir Alex Ferguson win during his time at Manchester United?",
+                "correct_answer": "13",
+                "incorrect_answers": [
+                    "11",
+                    "20",
+                    "22"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Who is Manchester United&#039;s top premier league goal scorer?",
+                "correct_answer": "Wayne Rooney",
+                "incorrect_answers": [
+                    "Sir Bobby Charlton",
+                    "Ryan Giggs",
+                    "David Beckham"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which of the following player scored a hat-trick during their Manchester United debut?",
+                "correct_answer": "Wayne Rooney",
+                "incorrect_answers": [
+                    "Cristiano Ronaldo",
+                    "Robin Van Persie",
+                    "David Beckham"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which professional wrestler fell from the rafters to his death during a live Pay-Per-View event in 1999?",
+                "correct_answer": "Owen Hart",
+                "incorrect_answers": [
+                    "Chris Benoit",
+                    "Lex Luger",
+                    "Al Snow"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Who was the topscorer for England national football team?",
+                "correct_answer": "Wayne Rooney",
+                "incorrect_answers": [
+                    "David Beckham",
+                    "Steven Gerrard",
+                    "Michael Owen"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which Formula 1 driver switched teams in the middle of the 2017 season?",
+                "correct_answer": "Carlos Sainz Jr.",
+                "incorrect_answers": [
+                    "Daniil Kvyat",
+                    "Jolyon Palmer",
+                    "Rio Haryanto"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What is Tiger Woods&#039; all-time best career golf-score?",
+                "correct_answer": "61",
+                "incorrect_answers": [
+                    "65",
+                    "63",
+                    "67"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What is the name of the AHL affiliate of the Toronto Maple Leafs?",
+                "correct_answer": "Toronto Marlies",
+                "incorrect_answers": [
+                    "Toronto Rock",
+                    "Toronto Argonauts",
+                    "Toronto Wolfpack"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "What country hosted the 2014 Winter Olympics?",
+                "correct_answer": "Russia",
+                "incorrect_answers": [
+                    "Canada",
+                    "United States",
+                    "Germany"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which NBA player has the most games played over the course of their career?",
+                "correct_answer": "Robert Parish",
+                "incorrect_answers": [
+                    "Kareem Abdul-Jabbar",
+                    "Kevin Garnett",
+                    "Kobe Bryant"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which basketball team has attended the most NBA grand finals?",
+                "correct_answer": "Los Angeles Lakers",
+                "incorrect_answers": [
+                    "Boston Celtics",
+                    "Philadelphia 76ers",
+                    "Golden State Warriors"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which country did Kabaddi, a contact sport involving tackling, originate from?",
+                "correct_answer": "India",
+                "incorrect_answers": [
+                    "Australia",
+                    "Turkey",
+                    "Cambodia"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Which of these countries&#039; national teams qualified for the 2018 FIFA World Cup in Russia?",
+                "correct_answer": "Tunisia",
+                "incorrect_answers": [
+                    "United States of America",
+                    "Italy",
+                    "Netherlands"
+                ]
+            },
+            {
+                "category": "Sports",
+                "type": "multiple",
+                "difficulty": "medium",
+                "question": "Who won the 2018 Monaco Grand Prix?",
+                "correct_answer": "Daniel Ricciardo",
+                "incorrect_answers": [
+                    "Sebastian Vettel",
+                    "Kimi Raikkonen",
+                    "Lewis Hamilton"
+                ]
+            }
+        ]
+    },
+    {
+        "response_code": 50,
+        "results": [
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Electronic music producer Kygo&#039;s popularity skyrocketed after a certain remix. Which song did he remix?",
+                "correct_answer": "Ed Sheeran - I See Fire",
+                "incorrect_answers": [
+                    "Marvin Gaye - Sexual Healing",
+                    "Coldplay - Midnight",
+                    "a-ha - Take On Me"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What type of dog is &#039;Handsome Dan&#039;, the mascot of Yale University?",
+                "correct_answer": "Bulldog",
+                "incorrect_answers": [
+                    "Yorkshire Terrier",
+                    "Boxer",
+                    "Pug"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the airspeed velocity of an unladen swallow?",
+                "correct_answer": "24 MPH",
+                "incorrect_answers": [
+                    "15 MPH",
+                    "20 MPH",
+                    "200 MPH"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "The words &quot;bungalow&quot; and &quot;shampoo&quot; originate from the languages of which country?",
+                "correct_answer": "India",
+                "incorrect_answers": [
+                    "Papua New Guinea",
+                    "Ethiopia",
+                    "China"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "When was &quot;YouTube&quot; founded?",
+                "correct_answer": "February 14, 2005",
+                "incorrect_answers": [
+                    "May 22, 2004",
+                    "September 12, 2005",
+                    "July 19, 2009"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Before the 19th Century, the &quot;Living Room&quot; was originally called the...",
+                "correct_answer": "Parlor",
+                "incorrect_answers": [
+                    "Open Room",
+                    "Sitting Room",
+                    "Loft"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What year was Queen Elizabeth II born?",
+                "correct_answer": "1926",
+                "incorrect_answers": [
+                    "1923",
+                    "1929",
+                    "1930"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of the following is not another name for the eggplant?",
+                "correct_answer": "Potimarron",
+                "incorrect_answers": [
+                    "Brinjal",
+                    "Guinea Squash",
+                    "Melongene"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of the following chemicals are found in eggplant seeds?",
+                "correct_answer": "Nicotine",
+                "incorrect_answers": [
+                    "Mescaline",
+                    "Cyanide",
+                    "Psilocybin"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Sciophobia is the fear of what?",
+                "correct_answer": "Shadows",
+                "incorrect_answers": [
+                    "Eating",
+                    "Bright lights",
+                    "Transportation"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of the following is an existing family in &quot;The Sims&quot;?",
+                "correct_answer": "The Goth Family",
+                "incorrect_answers": [
+                    "The Family",
+                    "The Simoleon Family",
+                    "The Proud Family"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of these banks are NOT authorized to issue currency notes in Hong Kong?",
+                "correct_answer": "OCBC",
+                "incorrect_answers": [
+                    "HSBC",
+                    "Standard Chartered",
+                    "Bank of China"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the romanized Chinese word for &quot;airplane&quot;?",
+                "correct_answer": "Feiji",
+                "incorrect_answers": [
+                    "Qiche",
+                    "Zongxian",
+                    "Huojian"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the romanized Korean word for &quot;heart&quot;?",
+                "correct_answer": "Simjang",
+                "incorrect_answers": [
+                    "Aejeong",
+                    "Jeongsin",
+                    "Segseu"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the romanized Arabic word for &quot;moon&quot;?",
+                "correct_answer": "Qamar",
+                "incorrect_answers": [
+                    "Najma",
+                    "Kawkab",
+                    "Shams"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which musician has collaborated with American producer Porter Robinson and released the 2016 song &quot;Shelter&quot;?",
+                "correct_answer": "Madeon",
+                "incorrect_answers": [
+                    "Mat Zo",
+                    "deadmau5",
+                    "Zedd"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "The Swedish word &quot;Grunka&quot; means what in English?",
+                "correct_answer": "Thing",
+                "incorrect_answers": [
+                    "People",
+                    "Place",
+                    "Pineapple"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Disney&#039;s Haunted Mansion is home to a trio of Hitchhiking Ghosts. Which of these is NOT one of them?",
+                "correct_answer": "Harry",
+                "incorrect_answers": [
+                    "Gus",
+                    "Phineas",
+                    "Ezra"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "How long did it take the motorized window washers of the original World Trade Center to clean the entire exterior of the building?",
+                "correct_answer": "1 Month",
+                "incorrect_answers": [
+                    "3 Weeks",
+                    "1 Week",
+                    "2 Months"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of the following languages does NOT use gender as a part of its grammar?",
+                "correct_answer": "Turkish",
+                "incorrect_answers": [
+                    "German",
+                    "Danish",
+                    "Polish"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which one of these Swedish companies was founded in 1943?",
+                "correct_answer": "IKEA",
+                "incorrect_answers": [
+                    "H &amp; M",
+                    "Lindex",
+                    "Clas Ohlson"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "How many calories are in a 355 ml can of Pepsi Cola?",
+                "correct_answer": "150",
+                "incorrect_answers": [
+                    "200",
+                    "100",
+                    "155"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "De Eemhof, Port Zelande and Het Heijderbos are holiday villas owned by what company?",
+                "correct_answer": "Center Parcs",
+                "incorrect_answers": [
+                    "Yelloh Village",
+                    "Keycamp",
+                    "Villa Plus"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "According to Fair Works Australia, how long do you have to work to get Long Service Leave?",
+                "correct_answer": "7 years",
+                "incorrect_answers": [
+                    "2 years",
+                    "8 years",
+                    "6 months"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What was Bank of America originally established as?",
+                "correct_answer": "Bank of Italy",
+                "incorrect_answers": [
+                    "Bank of Long Island",
+                    "Bank of Pennsylvania",
+                    "Bank of Charlotte"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which product did Nokia, the telecommunications company, originally sell?",
+                "correct_answer": "Paper",
+                "incorrect_answers": [
+                    "Phones",
+                    "Computers",
+                    "Processors"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What does the Latin phrase &quot;Veni, vidi, vici&quot; translate into English?",
+                "correct_answer": "I came, I saw, I conquered",
+                "incorrect_answers": [
+                    "See no evil, hear no evil, speak no evil",
+                    "Life, liberty, and happiness",
+                    "Past, present, and future"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Who founded the Khan Academy?",
+                "correct_answer": "Sal Khan",
+                "incorrect_answers": [
+                    "Ben Khan",
+                    "Kitt Khan",
+                    "Adel Khan"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "In flight systems, what does the initialism &quot;TCAS&quot; stand for?",
+                "correct_answer": "Traffic Collision Avoidance System",
+                "incorrect_answers": [
+                    "Traffic Communication Alert System",
+                    "Traffic Configuration Alignment System",
+                    "Traffic Call-sign Abbreviation System"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "If someone said &quot;you are olid&quot;, what would they mean?",
+                "correct_answer": "You smell extremely unpleasant.",
+                "incorrect_answers": [
+                    "You are out of shape\/weak.",
+                    "Your appearance is repulsive.",
+                    "You are incomprehensible\/an idiot."
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Named after the mallow flower, mauve is a shade of what?",
+                "correct_answer": "Purple",
+                "incorrect_answers": [
+                    "Red",
+                    "Brown",
+                    "Pink"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Chartreuse is a color between yellow and what?",
+                "correct_answer": "Green",
+                "incorrect_answers": [
+                    "Red",
+                    "Black",
+                    "Purple"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Originally another word for poppy, coquelicot is a shade of what?",
+                "correct_answer": "Red",
+                "incorrect_answers": [
+                    "Green",
+                    "Blue",
+                    "Pink"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Nephelococcygia is the practice of doing what?",
+                "correct_answer": "Finding shapes in clouds",
+                "incorrect_answers": [
+                    "Sleeping with your eyes open",
+                    "Breaking glass with your voice",
+                    "Swimming in freezing water"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "The Quadrangularis Reversum is best described as which of the following?",
+                "correct_answer": "A percussion instrument",
+                "incorrect_answers": [
+                    "A building in Oxford University",
+                    "A chess move",
+                    "A geometric theorem"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Where is Apple Inc. headquartered?",
+                "correct_answer": "Cupertino, California",
+                "incorrect_answers": [
+                    "Redwood City, California",
+                    "Redmond, Washington",
+                    "Santa Monica, CA"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which church&#039;s interior in Vatican City was designed in 1503 by renaissance architects including Bramante, Michelangelo and Bernini?",
+                "correct_answer": "St. Peter&#039;s Basilica",
+                "incorrect_answers": [
+                    "Catania Cathedral",
+                    "St. Mark&rsquo;s Basilica",
+                    "The Duomo of Florence"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "If you planted the seeds of Quercus robur, what would grow?",
+                "correct_answer": "Trees",
+                "incorrect_answers": [
+                    "Grains",
+                    "Vegetables",
+                    "Flowers"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Located in Chile, El Teniente is the world&#039;s largest underground mine for what metal?",
+                "correct_answer": "Copper",
+                "incorrect_answers": [
+                    "Iron",
+                    "Nickel",
+                    "Silver"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "How many notes are there on a standard grand piano?",
+                "correct_answer": "88",
+                "incorrect_answers": [
+                    "98",
+                    "108",
+                    "78"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "In the MMO RPG &quot;Realm of the Mad God&quot;, what dungeon is widely considered to be the most difficult?",
+                "correct_answer": "The Shatter&#039;s",
+                "incorrect_answers": [
+                    "Snake Pit",
+                    "The Tomb of the Acient&#039;s",
+                    "The Puppet Master&#039;s Theater"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the weight of a Gold Bar in Fallout: New Vegas?",
+                "correct_answer": "35 Pounds",
+                "incorrect_answers": [
+                    "30 Pounds",
+                    "40 Pounds",
+                    "32.50 Pounds"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "In &quot;Battle Cats&quot;, what is Moneko \/ MISS Moneko&#039;s critical percentage rate?",
+                "correct_answer": "15%",
+                "incorrect_answers": [
+                    "20%",
+                    "10%",
+                    "25%"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "What is the most commonly used noun in the English language?",
+                "correct_answer": "Time",
+                "incorrect_answers": [
+                    "Home",
+                    "Water",
+                    "Man"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "The word &quot;abulia&quot; means which of the following?",
+                "correct_answer": "The inability to make decisions",
+                "incorrect_answers": [
+                    "The inability to stand up",
+                    "The inability to concentrate on anything",
+                    "A feverish desire to rip one&#039;s clothes off"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "The word &quot;astasia&quot; means which of the following?",
+                "correct_answer": "The inability to stand up",
+                "incorrect_answers": [
+                    "The inability to make decisions",
+                    "The inability to concentrate on anything",
+                    "A feverish desire to rip one&#039;s clothes off"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "The word &quot;aprosexia&quot; means which of the following?",
+                "correct_answer": "The inability to concentrate on anything",
+                "incorrect_answers": [
+                    "The inability to make decisions",
+                    "A feverish desire to rip one&#039;s clothes off",
+                    "The inability to stand up"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of these cities does NOT have a United States Minting location?",
+                "correct_answer": "St. Louis, MO",
+                "incorrect_answers": [
+                    "San Fransisco, CA",
+                    "Philidelphia, PA",
+                    "West Point, NY"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "Which of the following  British Monarchs never appeared on a circulated pound sterling coin?",
+                "correct_answer": "Edward VIII",
+                "incorrect_answers": [
+                    "Victoria",
+                    "George VI",
+                    "Charles II"
+                ]
+            },
+            {
+                "category": "General Knowledge",
+                "type": "multiple",
+                "difficulty": "hard",
+                "question": "In &quot;Resident Evil 3&quot;, how many inventory slots does Jill have at the start of the game?",
+                "correct_answer": "10",
+                "incorrect_answers": [
+                    "6",
+                    "8",
+                    "12"
+                ]
+            }
+        ]
+    }
+]
